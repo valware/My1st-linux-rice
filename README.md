@@ -1,7 +1,7 @@
 # My1st-linux-rice
 First try on linux ricing using a window manager, just like the cool kids do.
 
-
+## Scrots :camera:
 ![2018-05-13-220054_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977376-35738aaa-56ff-11e8-82a3-c14f962726c9.png)
 
 
