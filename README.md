@@ -3,6 +3,12 @@ First try on linux ricing using a window manager, just like the cool kids do.
 ## Stuff I used
 * i3-gaps-git
 * i3blocks-gaps-git 
+* vim (NerdTree, LaTeX-Box, vim-airline, gruvbox)
+* rofi
+* ncmpcpp, mpd 
+* zsh (oh-my-zsh, cmatrix, pipes, tty-clock)
+* htop, gtop 
+* ranger
 
 ## Scrots :camera:
 
