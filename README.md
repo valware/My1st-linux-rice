@@ -28,6 +28,10 @@ Fake busy fashionable scrot.
 
 ![2018-05-13-220654_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977379-35d621f6-56ff-11e8-94b9-88d9a3db0b51.png)
 
+Some cool scripts (pukeskull, 3spooky, hack-exe)
+
+![2018-05-15-004857_1366x768_scrot](https://user-images.githubusercontent.com/31057100/40038924-f5cca98c-57d9-11e8-8459-a4610db2ff13.png)
+
 
 Not that fake busy LaTeX fluid mechanics homework.
 
