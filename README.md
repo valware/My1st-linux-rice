@@ -36,3 +36,8 @@ Some cool scripts (pukeskull, 3spooky, hack-exe)
 Not that fake busy LaTeX fluid mechanics homework.
 
 ![2018-05-13-220909_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977380-35f403f6-56ff-11e8-85cb-98c113ffef7f.png)
+
+Some compton transparency for the fancy duties.
+
+![2018-05-20-233201_1366x768_scrot](https://user-images.githubusercontent.com/31057100/40290783-11d18f70-5c86-11e8-8a3e-629ec3fae6ba.png)
+
