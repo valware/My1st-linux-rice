@@ -1,0 +1,57 @@
+Mar 05 23:55 : exception: Failed to open /home/daniel/.mpd/mpdstate: No such file or directory
+Mar 05 23:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 23:55 : update: added /06. Us And Them - Pink Floyd.mp3
+Mar 05 23:55 : update: added /04. The Great Gig In The Sky - Pink Floyd.mp3
+Mar 05 23:55 : update: added /02. On The Run - Pink Floyd.mp3
+Mar 05 23:55 : update: added /05. Money - Pink Floyd.mp3
+Mar 05 23:55 : update: added /06. Echoes - Pink Floyd.mp3
+Mar 05 23:55 : update: added /03. Time - Pink Floyd.mp3
+Mar 05 23:55 : avahi: Service 'Music Player' successfully established.
+Mar 06 00:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 00:00 : avahi: Service 'Music Player' successfully established.
+Mar 06 00:07 : client: [0] opened from 127.0.0.1:38814
+Mar 06 00:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 00:08 : player: played "02. On The Run - Pink Floyd.mp3"
+Mar 06 00:13 : client: [0] closed
+Mar 06 00:14 : client: [1] opened from 127.0.0.1:38842
+Mar 06 00:25 : client: [1] closed
+Mar 06 00:32 : client: [2] opened from 127.0.0.1:39036
+Mar 06 00:37 : client: [2] closed
+Mar 06 00:44 : client: [3] opened from 127.0.0.1:39260
+Mar 06 00:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 00:56 : client: [0] opened from 127.0.0.1:41584
+Mar 06 00:56 : avahi: Service 'Music Player' successfully established.
+Mar 06 00:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 06 09:58 : client: [0] closed
+Mar 12 14:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 14:03 : avahi: Service 'Music Player' successfully established.
+Mar 12 14:03 : client: [0] opened from 127.0.0.1:60836
+Mar 12 14:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 14:08 : client: [0] closed
+Mar 12 17:34 : client: [1] opened from 127.0.0.1:38234
+Mar 12 17:43 : client: [1] closed
+Mar 22 11:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 11:01 : client: [0] opened from 127.0.0.1:37424
+Mar 22 11:01 : avahi: Service 'Music Player' successfully established.
+Mar 22 11:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 12:20 : player: played "03. Time - Pink Floyd.mp3"
+Mar 22 12:54 : player: played "02. On The Run - Pink Floyd.mp3"
+Mar 22 13:02 : player: played "03. Time - Pink Floyd.mp3"
+Mar 22 14:16 : client: [0] closed
+Mar 23 09:17 : client: [1] opened from 127.0.0.1:44686
+Mar 23 09:29 : client: [1] closed
+Mar 23 09:30 : client: [2] opened from 127.0.0.1:44796
+Mar 23 09:30 : client: [2] closed
+Mar 23 09:30 : client: [3] opened from 127.0.0.1:44802
+Mar 23 09:30 : client: [3] closed
+Mar 23 09:35 : client: [4] opened from 127.0.0.1:44856
+Mar 23 09:45 : client: [4] closed
+Mar 23 09:45 : client: [5] opened from 127.0.0.1:44908
+Mar 23 10:21 : client: [5] closed
+May 20 23:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 23:16 : avahi: Service 'Music Player' successfully established.
+May 20 23:16 : client: [0] opened from 127.0.0.1:39406
+May 20 23:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 20 23:20 : player: played "02. On The Run - Pink Floyd.mp3"
+May 20 23:25 : player: played "03. Time - Pink Floyd.mp3"
+May 20 23:32 : client: [0] closed
