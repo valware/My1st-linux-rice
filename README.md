@@ -22,11 +22,11 @@ True to r/unixporn
 
 Rofi window switcher and dmenu replacement
 
-![rofi](6.png)
+![rofi](/scrots/6.png)
 
 Some cool color scripts and task managers/process viewers
 
-![1](1.png)
+![1](/scrots/1.png)
 
 Window tiling in action
 
