@@ -12,32 +12,26 @@ First try on linux ricing using a window manager, just like the cool kids do.
 
 ## Scrots :camera:
 
-Floating terminal, zsh, oh-my-zsh, powerlevel9k, powerline font hacker.
+Neofetch and clean desktop
 
-![2018-05-13-220054_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977376-35738aaa-56ff-11e8-82a3-c14f962726c9.png)
+![neo](/scrots/2.png)
 
-Rofi basic built-in theme.
+True to r/unixporn
 
-![2018-05-13-220113_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977377-3599b702-56ff-11e8-905d-3b1d6c2e1c7b.png)
+![unixporn](/scrots/4.png)
 
-True to /r/unixporn.
+Rofi window switcher and dmenu replacement
 
-![2018-05-13-220152_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977378-35b6d31e-56ff-11e8-8926-9fef0ffd88e4.png)
+![rofi](6.png)
 
-Fake busy fashionable scrot.
+Some cool color scripts and task managers/process viewers
 
-![2018-05-13-220654_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977379-35d621f6-56ff-11e8-94b9-88d9a3db0b51.png)
+![1](1.png)
 
-Some cool scripts (pukeskull, 3spooky, hack-exe)
+Window tiling in action
 
-![2018-05-15-004857_1366x768_scrot](https://user-images.githubusercontent.com/31057100/40038924-f5cca98c-57d9-11e8-8459-a4610db2ff13.png)
+![3](/scrots/3.png)
 
+Vim and mupdf
 
-Not that fake busy LaTeX fluid mechanics homework.
-
-![2018-05-13-220909_1366x768_scrot](https://user-images.githubusercontent.com/31057100/39977380-35f403f6-56ff-11e8-85cb-98c113ffef7f.png)
-
-Some compton transparency for the fancy duties.
-
-![2018-05-20-233201_1366x768_scrot](https://user-images.githubusercontent.com/31057100/40290783-11d18f70-5c86-11e8-8a3e-629ec3fae6ba.png)
-
+![vimmu](/scrots/5.png)
